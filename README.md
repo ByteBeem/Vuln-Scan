@@ -3,6 +3,8 @@ Title: JuVi Scanner
 Description:
 The Juvi Scanner is a web application built using Python and Flask that helps users identify potential vulnerabilities in web forms. It utilizes web scraping techniques to extract form details from a given URL and submits payloads to identify vulnerabilities.
 
+Application hosted on : http://cybermysticjude.pythonanywhere.com/ (some errors and some of the may not works.)
+
 Features:
 
 Form Detection: The application automatically detects and extracts all HTML forms present on a given URL.
@@ -23,5 +25,7 @@ Requests (for HTTP requests)
 BeautifulSoup (for web scraping)
 Purpose:
 The JuVi Scanner is designed to help developers and security professionals identify and mitigate vulnerabilities in web applications. By automating the scanning process, it simplifies the task of identifying potential security risks and helps improve the overall security posture of web applications.
+
+Application hosted on : http://cybermysticjude.pythonanywhere.com/ (some errors and some of the may not works. If you wanna check fully download the code and compile it your own compiler.
 
 Note: This application is intended for educational and informational purposes only. It should not be used for malicious intent or unauthorized scanning of websites without proper consent.
